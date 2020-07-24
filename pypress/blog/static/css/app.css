@@ -1,0 +1,72 @@
+.home-banner {
+    background-image: url('/static/img/banner.jpg');
+    background-position:center;
+    background-size:cover;
+    background-repeat:no-repeat;
+    height:450px;
+    text-align: center;
+    overflow: hidden;
+    margin-top:57px;
+    display: flex;
+    display: -webkit-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#home-tab-menu {
+    margin-top: 0.2rem;
+}
+
+.home-article-list {
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+}
+
+footer {
+    height: 3rem;
+    line-height: 3rem;
+    text-align: center
+}
+
+.login-box {
+    width: 30rem;
+    margin-top:5rem;
+}
+
+.pt-3 {
+    padding-top: 0.3rem;
+}
+.pt-2 {
+    padding-top: 0.2rem;
+}
+.pb-1 {
+    padding-top: 0.1rem;
+}
+.pb-2 {
+    padding-top: 0.2rem;
+}
+.pl-2 {
+    padding-top: 0.2rem;
+}
+.pr-2 {
+    padding-top: 0.2rem;
+}
+.mt-2 {
+    margin-top: 0.2rem;
+}
+.mb-2 {
+    margin-top: 0.2rem;
+}
+.ml-2 {
+    margin-top: 0.2rem;
+}
+.mr-2 {
+    margin-top: 0.2rem;
+}
+.ml-3 {
+    margin-top: 0.3rem;
+}
+.mr-3 {
+    margin-top: 0.3rem;
+}
